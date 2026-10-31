@@ -1,7 +1,7 @@
 import fs from 'fs'
 
 export const PREFIX = '@'
-export const BOT_NAME = '𝕂𝕒ï𝕕𝕠𝔹𝕠𝕥 @ 𝐒֟፝͜𝐆𝐇'
+export const BOT_NAME = '𝕂𝕒ï𝕕𝕠𝔹𝕠𝕥 @ 𝐒֟፝͜𝐆𝐇 ☠️'
 export const OWNER_NAME = '𝕂𝔸Ï𝔻𝕆'
 export const VERSION = 'V0.0'
 export const FOOTER = '> ☠️ Développé par *𝕂𝔸Ï𝔻𝕆* @ Glory to the clan 𝐒֟፝͜𝐆𝐇 𝐁֟፝͜𝐋𝐎𝐎𝐃 ❾❾'
